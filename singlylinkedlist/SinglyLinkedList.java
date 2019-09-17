@@ -2,6 +2,10 @@ package singlylinkedlist;
 
 /**
  *  Modified from Drozdek, Data Structures and Algorithms in Java
+ *  Name: <Nathan Fishel>
+ *  COSC 311  FA19
+ *  hw0912
+ *  URL:  <https://github.com/nfishel48/Cosc-311/blob/master/singlylinkedlist/SinglyLinkedList.java>
  */
 
 public class SinglyLinkedList {
@@ -148,3 +152,15 @@ public class SinglyLinkedList {
         
    }
 }
+
+/**
+ *
+Execution begun
+initial list: Empty String
+3 5 
+list after inserts: 2 2 2 3 5 6 7 
+list after deletes: 2 2 3 6 
+Execution terminated
+ * 
+ */
+

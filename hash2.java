@@ -8,7 +8,7 @@ Class: COSC 311 with Dr. Haynes
 Date: 11/10/19
 Description: This program will take 8 Randomaly generated int values and hash them in a table size 11
 This hash table will be in a random access file
-URL : https://github.com/nfishel48/Cosc-311/blob/master/hash.java
+URL : https://github.com/nfishel48/Cosc-311/blob/master/hash2.java
  */
         //Initialize random generator
         static Random rgen = new Random(97);
